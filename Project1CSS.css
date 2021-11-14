@@ -1,0 +1,44 @@
+body {
+    border-style: double;
+    border-width: 5px;
+}
+
+#pageTitle {
+    border-style: solid;
+    background-color: lightblue;
+    text-align: center;
+    font-family: Times, Georgia;
+    font-weight: bold;
+	font-size: 50px;
+}
+
+#intro {
+    font-family: Arial, Verdana, Helvetica
+    text-indent: 36px;
+}
+
+.introText {
+    text-indent: 80px;
+    font-size: 30px;
+    font-family: Arial, Verdana, Helvetica
+}
+
+.mainBody {
+    font-size: 36px;
+    text-align: center;
+}
+
+.socialLinks {
+    background-color: #7b63a7;
+}
+
+#socials {
+    font-family: Arial, Verdana;
+    text-align: center;
+    font-size: 32px;
+}
+
+#instagram {
+    text-align: center;
+    font-size: 28px;
+}
