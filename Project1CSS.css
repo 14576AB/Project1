@@ -1,12 +1,12 @@
 body {
 	border-style: double;
 	border-width: 5px;
-	background-color: #d6f5f5;
+	background-color: #eff5f5;
 }
 
 #pageTitle {
     border-style: solid;
-    background-color: #e6ccff;
+    background-color: #c6c6ec;
     text-align: center;
     font-family: Times, Georgia;
     font-weight: bold;
